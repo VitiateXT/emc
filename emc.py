@@ -10,7 +10,7 @@ print(r"""
 ██╔══╝  ██║╚██╔╝██║██║     
 ███████╗██║ ╚═╝ ██║╚██████╗
 ╚══════╝╚═╝     ╚═╝ ╚═════╝
- Export Markdown to Code
+Export Markdown to Code//v0.1
 """)
 
 print('Time for Startup: ' + str(time.time() - start), 'seconds')
